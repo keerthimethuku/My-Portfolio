@@ -9,7 +9,7 @@ body {
     font-family: 'Poppins', sans-serif;
     line-height: 1.7;
     color: #333;
-    background: #fdfcfb;
+    background: #f2f1f5;
 }
 
 /* Header */
@@ -65,7 +65,6 @@ h2 {
     margin-bottom: 1.5rem;
 }
 
-
 /* Experience Cards */
 .experience {
     background: #ffffff;
@@ -109,6 +108,7 @@ h2 {
     margin-bottom: 0.5rem;
     color: #555;
 }
+
 
 /* Lists */
 ul {
